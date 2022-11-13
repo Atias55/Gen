@@ -26,7 +26,7 @@ for (const file of commandFiles) {
 };
 
 // Client login
-client.login("OTUxMDkwNjIzMzc5ODAwMDg0.GVhXr0.fam2FvtHk-jazdDr9GFM8ezZ-H7IWpnr3BW-9M");
+client.login("");
 
 client.once('ready', () => {
 	log.info(`I am logged in as ${client.user.tag} to Discord!`); // Say hello to console
